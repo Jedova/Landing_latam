@@ -14,4 +14,18 @@
   .text-justify {
     text-align: justify;
   }
+
+  .destacados {
+    background-color: #000;
+  }
+  
+  .card-body{
+    background-color: #00cce5;
+  }
+
+  .card-img-top {
+    height: 200px;             
+    object-fit: cover;         
+    width: 100%;               
+  }
   
